@@ -1,0 +1,2 @@
+# fititAi
+personal fitness assistant
